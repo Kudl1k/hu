@@ -160,3 +160,5 @@ yolov8n.onnx
 sd_output.png
 mnist_model.keras
 data/
+
+/project_files
